@@ -1,1 +1,1 @@
-web: pip install . -U && shared_first_package-run
+web: pip install . -U && sharedfirstpackage-run
